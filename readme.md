@@ -1,4 +1,4 @@
-# Wiki-Book Setup Gude
+# Wiki-Book Setup Guide
 
 ### Setup
 First, install `node-js` just follow the installing node guide below then, go to the project folder using terminal and type `npm install` to install the dependencies in `package.json`
