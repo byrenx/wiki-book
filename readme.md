@@ -1,4 +1,14 @@
-# Setup the Project from Scratch
+# Wiki-Book Setup Gude
+
+### Setup
+First, install `node-js` just follow the installing node guide below then, go to the project folder using terminal and type `npm install` to install the dependencies in `package.json`
+
+Then, Type `$ gulp` to start the local server and access `localhost:9005` in the browser.
+
+If `gulp` is not found as a command install it globally `npm install -g gulp`
+
+
+# Setup the Project from Scratch Guide
 
 ## Needed Packages:
    1. Node
