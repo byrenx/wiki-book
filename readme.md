@@ -50,8 +50,11 @@ Directly using npm in the terminal, `npm install --save browserify reactify viny
 
 ### Install ESlint for linting JSX
 
-`npm install gulp-eslint`
+`npm install --save gulp-eslint`
 
 ### Install react, react-router and flux
 
-`npm instal react react-router flux`
+`npm install --save react react-router flux`
+
+### lodash (optional)
+ `npm install --save lodash`
